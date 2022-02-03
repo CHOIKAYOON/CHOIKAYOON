@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=FrontEnd+React개발자_최가윤&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=FrontEnd__React개발자_최가윤&fontSize=40&animation=twinkling)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CHOIKAYOON/CHOIKAYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
