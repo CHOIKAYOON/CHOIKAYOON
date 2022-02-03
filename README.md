@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=FrontEnd__React_주니어개발자&fontSize=30&fontColor=ffffff&animation=twinkling)
 
-#### ✨ 3년차 FE 주니어 개발자 최가윤입니다. <br /> 주로 쓰는 언어는 React입니다.
+#### ✨ 3년차 FE 주니어 개발자 최가윤입니다.
 
-<br />
 
 ### 🚀 경력 
 
