@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=FrontEnd__React_주니어개발자&fontSize=30&fontColor=ffffff&animation=twinkling)
 
-#### ✨ 3년차 FE 주니어 개발자 최가윤입니다.
-
+#### ✨ 3년차 FE 주니어 개발자 최가윤입니다. 
 
 ### 🚀 경력 
 
@@ -42,6 +41,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+<br />
+
+### 💬 개발공부 블로그
+<a href="https://velog.io/@yon3115" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+</a>
+
+<br />
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIKAYOON&show_icons=true&theme=dark)
