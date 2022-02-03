@@ -1,18 +1,39 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=FrontEnd__React_주니어개발자&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=FrontEnd__React_주니어개발자&fontSize=30&animation=twinkling)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIKAYOON&show_icons=true&theme=dark)
+#### ✨ 3년차 FE 주니어 개발자 최가윤입니다. <br /> 주로 쓰는 언어는 React입니다.
 
-<h1 align="center">Hi 👋, I'm Gayoon</h1>
-<h3 align="center">FE 2년 6개월 ~ing 주니어 개발자입니다.</h3>
+<br />
 
+### 🚀 경력 
 
+#### 다방( 2020.11 ~ ing )
+  - 다방_프로 web 유지보수 및 서비스 개발
+  - ex) https://pro.dabangapp.com/
+  - 다방프로_비대면 전자계약 프로젝트 참여 (2021년 12월 서비스 오픈)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### 날라지포인트 회사( 2018.10 ~ 2020.03 - 1년 6개월 )
+  - 홈페이지 관리자 사이트 개발
+  - 홈페이지 솔루션 개발(영상회의 솔루션 개발)
+  - GIGA Genie Hotel(기가 지니 호텔) 관리자 Web 페이지 기능 개발 및 페이지 구현
+  - KT_KMAP 프론트 엔드 기능 리뉴얼
+  
+<br />
+
+###  📚 프로그래밍 언어
+<p align="left"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-76CAB5?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
-### 사용 스킬 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIKAYOON&show_icons=true&theme=dark)
 
 <!--
 **CHOIKAYOON/CHOIKAYOON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
