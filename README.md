@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=FrontEnd_개발자+React개발자&fontSize=40&fontAlign=70&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=FrontEnd_개발자+React개발자&fontSize=40&fontAlign=70&animation=twinkling)
 
 
 
