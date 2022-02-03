@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=capsule%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=FrontEnd 개발자 + React 개발자&fontSize=40animation=fadeIn)
 
 
 <!--
